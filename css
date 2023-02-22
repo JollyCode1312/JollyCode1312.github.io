@@ -1,0 +1,41 @@
+h1 {
+    display: inline;
+    box-sizing: content-box;
+    border: solid;
+    border-style: outset;
+    background-color: azure;
+}
+
+nav {
+    display: inline-flex;
+    box-sizing: border-box;
+    text-align: left;
+    border: solid;
+}
+
+body {
+    background-color: rgb(40, 99, 63);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, serif;
+}
+
+.html-rel {
+    border: solid;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.GIT-rel{
+    border: solid;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.css-rel {
+    border: solid;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
